@@ -4,7 +4,7 @@ A Chat App made using Flutter
 
 # Image
 
-<p align="center">
+<p>
 <img src="art/fluchat.png" alt="drawing" width="640px" hspace="480"/>  
 </p>
 
