@@ -25,9 +25,16 @@ A Chat App made using Flutter
 - Dark mode/Light mode
 - State Management using flutter_bloc and cubits
 
+## Instalation
+
+- Clone project
+- Configure Firebase stuff (google-services.json and Google-Service.info.plist files)
+- Configure Google Sign In 
+- Configure your Stream project
+
 # Video Tutorials 
 (Activate english subtitles)
 
-Part 1 - https://www.youtube.com/watch?v=H7FjCWHmP9Y => Project Structure, StreamChat, flutter_bloc 
-Part 2 - https://www.youtube.com/watch?v=xGXvgrA_vNY => Clean Architecture, dependency injection, auth, storage, chat
-Part 3 - https://www.youtube.com/watch?v=EVvGdFc4SvQ => UI/UX, customizing StreamChat and demo
+- Part 1 - https://www.youtube.com/watch?v=H7FjCWHmP9Y => Project Structure, StreamChat, flutter_bloc 
+- Part 2 - https://www.youtube.com/watch?v=xGXvgrA_vNY => Clean Architecture, dependency injection, auth, storage, chat
+- Part 3 - https://www.youtube.com/watch?v=EVvGdFc4SvQ => UI/UX, customizing StreamChat and demo
