@@ -45,15 +45,19 @@ class StreamApiImpl extends StreamApiRepository {
 
   @override
   Future<String> getToken(String userId) async {
-    //TODO: use your own implementation
+    //TODO: use your own implementation in Production
     final response = await http.post(
-      'https://us-central1-fluchat-3a0ab.cloudfunctions.net/getToken',
+      'your_backend_url',
       body: jsonEncode(<String, String>{'id': userId}),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
     );
     final token = jsonDecode(response.body)['token'];
+
+    //In Development mode you can just use :
+    // _client.devToken(userId);
+
     return token;
   }
 
