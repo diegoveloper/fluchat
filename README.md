@@ -5,19 +5,19 @@ A Chat App made using Flutter
 # Image
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1MvMw1i91yV-EiyFeHKAJa7WRBFHVa-4J/view?usp=sharing" alt="drawing" width="640px" hspace="480"/>  
+<img src="art/fluchat.png" alt="drawing" width="640px" hspace="480"/>  
 </p>
 
 
 # Design 
 
-https://dribbble.com/shots/15263978-Fluchat
-https://projects.invisionapp.com/prototype/Chat-App-cklk8tiia002tqz01u0q1u3cl/play/9ef3ca44
+- https://dribbble.com/shots/15263978-Fluchat
+- https://projects.invisionapp.com/prototype/Chat-App-cklk8tiia002tqz01u0q1u3cl/play/9ef3ca44
 
 # My Networks
 
-www.twitter.com/diegoveloper
-www.youtube.com/diegoveloper
+- www.twitter.com/diegoveloper
+- www.youtube.com/diegoveloper
 
 ## Features
 
