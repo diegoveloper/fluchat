@@ -1,6 +1,6 @@
-# FluChat
+# Chatter
 
-Chatter is a sample chat app made in Flutter using [Stream Chat](https://getstream.io/chat/sdk/flutter/), [Firebase](https://firebase.google.com/), and [flutter_bloc](https://bloclibrary.dev/#/). It has full light and dark mode support, real-time chat, and full authentication using Firebase auth. 
+Chatter(ex FluChat) is a sample chat app made in Flutter using [Stream Chat](https://getstream.io/chat/sdk/flutter/), [Firebase](https://firebase.google.com/), and [flutter_bloc](https://bloclibrary.dev/#/). It has full light and dark mode support, real-time chat, and full authentication using Firebase auth. 
 
 Chatter was created by [Diego Velasquez](http://www.twitter.com/diegoveloper) as part of a Youtube series. A step by step guide to building Chatter from scratch can be found here:
  - Part 1 - https://www.youtube.com/watch?v=H7FjCWHmP9Y => Project Structure, StreamChat, flutter_bloc
@@ -11,7 +11,7 @@ Chatter was created by [Diego Velasquez](http://www.twitter.com/diegoveloper) as
 
 # Image
 
-![design](art/fluchat.png?raw=true "FluChat")
+![design](art/fluchat.png?raw=true "Chatter")
 
 
 # Design 
@@ -38,10 +38,3 @@ Chatter was created by [Diego Velasquez](http://www.twitter.com/diegoveloper) as
 - Configure Firebase stuff (google-services.json and Google-Service.info.plist files)
 - Configure Google Sign In 
 - Configure your Stream project
-
-# Video Tutorials 
-(Activate english subtitles)
-
-- Part 1 - https://www.youtube.com/watch?v=H7FjCWHmP9Y => Project Structure, StreamChat, flutter_bloc 
-- Part 2 - https://www.youtube.com/watch?v=xGXvgrA_vNY => Clean Architecture, dependency injection, auth, storage, chat
-- Part 3 - https://www.youtube.com/watch?v=EVvGdFc4SvQ => UI/UX, customizing StreamChat and demo
