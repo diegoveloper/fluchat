@@ -1,4 +1,4 @@
-name: chatter
+name: fluchat
 description: Chat App implemented using Clean Architecture.
 publish_to: 'none' 
 version: 1.0.0+1
