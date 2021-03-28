@@ -15,7 +15,7 @@ Future<void> main() async {
 }
 
 class MyApp extends StatelessWidget {
-  final _streamChatClient = StreamChatClient('c2rynysx9x6b');
+  final _streamChatClient = StreamChatClient('mvsh2q8qc7az');
 
   @override
   Widget build(BuildContext context) {

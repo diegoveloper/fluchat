@@ -163,7 +163,9 @@ class FriendsSelectionView extends StatelessWidget {
                             _createFriendChannel(context, chatUserState);
                           },
                           leading: CircleAvatar(
-                            backgroundImage: NetworkImage(chatUserState.chatUser.image),
+                            backgroundImage: chatUserState.chatUser.image != null
+                                ? NetworkImage(chatUserState.chatUser.image)
+                                : null,
                           ),
                           title: Text(chatUserState.chatUser.name),
                           trailing: isGroup
